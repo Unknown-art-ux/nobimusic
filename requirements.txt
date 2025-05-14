@@ -1,6 +1,7 @@
+pytgcalls==0.9.4
 pyrogram==2.0.106
 tgcrypto==1.2.5
-pytgcalls==1.0.0
-youtube-search-python
-yt-dlp
-aiohttp
+youtube-search-python==1.6.6
+yt-dlp==2024.04.09
+aiohttp==3.8.6
+pyaes==1.6.1
