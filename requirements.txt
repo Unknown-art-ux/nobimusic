@@ -1,6 +1,6 @@
 pyrogram==2.0.106
-tgcrypto
-pytgcalls==1.2.3
+tgcrypto==1.2.5
+pytgcalls==1.2.0
+youtube-search-python
 yt-dlp
-python-dotenv
 aiohttp
